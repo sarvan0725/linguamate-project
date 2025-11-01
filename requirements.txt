@@ -1,0 +1,8 @@
+streamlit
+speechrecognition
+gtts
+deep-translator
+pydub
+pyaudio
+textblob
+langdetect
